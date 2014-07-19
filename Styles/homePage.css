@@ -1,0 +1,126 @@
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+html, body, .page-wrap:before {
+	width: 100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	}
+	
+a {
+	color:#212121;
+	background-color: #fff;
+	box-shadow: 2px 2px 5px #212121;
+}
+	
+h1{
+	font-family: Helvetica, sans-sarif, Arial;
+	padding: 15px;
+	width: 100%;
+	margin:0px;
+	background-color: #263238;
+	color: #eeeeee;
+	box-shadow:2px 2px 5px #212121;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+
+}
+.PricesRow {
+	color:black;
+	background-color:#04db3d;
+}
+
+p { 
+	color: #07db8; 
+	font-size: 24px; 
+	text-align:center;
+}
+
+#special {color: #55f;}
+ul {
+	list-style-type:none;
+	}
+	
+#welcome {
+	background-image:url(../images/background2.jpg);
+	width:100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#NavBar {
+	display: inline;
+}
+
+.MainBody {
+	background-color: #b0bec5;
+	margin:0px;
+	padding:0px;
+	/*color:#fff;*/
+	}
+	
+.full-height {
+	/*Add styles here */
+}
+
+.full-width {
+	/*Add styles here */
+}
+.site-footer, .page-wrap:after {
+	height: 200px;
+}
+
+.site-footer {
+	background-color: #fdd835;
+	color: black;
+	text-align: center;
+	padding: 10px;
+	
+}
+
+#bgpic {
+	background-color: #cfd8dc;
+}
+
+
+.jumbotron {
+	width: 100%;
+	padding-top:10px;
+	box-shadow:2px 2px 5px #212121;
+	margin-top:10px;
+	}
+	
+#subtitle {
+	text-align: center;
+}
+
+#intro {
+	font-family:helvetica, sans-serif, Comic Sans MS;
+	margin-bottom: 25px;
+}
+
+.nav {
+	color: #888;
+	font-size:24px;
+	font-family: sans-serif;
+	background-color:#000;
+}
+
+#hicon {
+	background: #212121;
+}
+
+.service-box {
+	margin-left: auto;
+	margin-right:auto;
+	padding:10px;
+}
+
+#iconpad {
+	padding-right: 10px;
+}
+
